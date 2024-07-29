@@ -1,6 +1,6 @@
 # Project SLU
 
-Project SLU is a Next.js application designed to raise awareness about Diversity, Equity, and Inclusion (DEI) and document the entire process of Project SLU. The project aims to bridge the gap in educational resources and access to technology for children in Vieux-Fort, St. Lucia.
+Project SLU is designed to raise awareness about Diversity, Equity, and Inclusion (DEI) and document the entire process of Project SLU. The project aims to bridge the gap in educational resources and access to technology for children in Vieux-Fort, St. Lucia.
 
 ## Table of Contents
 
