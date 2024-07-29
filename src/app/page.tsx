@@ -23,7 +23,7 @@ const Home: React.FC = () => {
             Project SLU, established in 2022 in Vieux-Fort, St. Lucia, aims to bridge the gap in educational resources and access to technology. Our mission is to enhance the educational experiences of children through the provision of essential school supplies.
           </p>
           <p className="text-lg text-center px-4 mt-4">
-            Over the coming summer, we plan to equip 150 - 300 students with backpacks (each with a calculator, pencils, folders, notebooks, etc). In addition, we are creating a website to raise awareness about Diversity, Equity, and Inclusion (DEI) and document the entire process of Project SLU.
+            Over the coming winter break, we plan to equip 150 - 300 students with backpacks (each with a calculator, pencils, folders, notebooks, etc). In addition, we are creating a website to raise awareness about Diversity, Equity, and Inclusion (DEI) and document the entire process of Project SLU.
           </p>
         </div>
       </main>
